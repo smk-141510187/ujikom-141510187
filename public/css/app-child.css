@@ -1,0 +1,141 @@
+body {
+    background-image: url("background.jpg");
+}
+.navbar-default {
+    background-color: #3097D1;
+}
+.img-circle {
+	margin: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 8px 6px #090909;
+}
+.home {
+    border-color: #d3e0e9;
+    box-shadow: 5px 5px 22px 0px #3097D1;
+    background-color: #3097D1;
+}
+
+
+.panel-default>.panel-heading {
+    background-color: #3097D1;
+    color: #fff;
+    height: 93px;
+    box-shadow: 0px 0px 17px 6px #3097D1 ;
+}
+.home>.panel-heading {
+    background-color: #3097D1;
+    color: #fff;
+    height: 160px;
+}
+.judul{
+	height: 160px !important;
+	background-color: #3097D1;
+}
+
+.kecil{
+	height: 1px !important;
+	background: #000 !important;
+
+    box-shadow: 0px 9px 20px 0px #090909;
+
+}
+.auth{
+
+	color: white !important;
+	font-size: 15px;
+}
+.pegawai{
+	margin: 7px 0px 7px 0px
+}
+.btn-primary {
+    color: #fff;
+    background-color: #3097D1;
+    border-color: #2a88bd;
+    box-shadow: 0px 0px 13px 5px #090909;
+    margin-top: 8px ;
+}
+.btn-success {
+    color: #fff;
+    background-color: #2ab27b;
+    border-color: #259d6d;
+    box-shadow: 0px 0px 13px 5px #090909;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #bf5329;
+    border-color: #aa4a24;
+    box-shadow: 0px 0px 13px 5px #090909;
+}
+
+.a {
+    box-shadow: 0px 0px 13px 5px #090909;
+    margin-top: 8px ;
+}
+
+.jabatan{
+	margin-left: 4px ;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+}
+
+.jabatan1{
+	margin-left: 4px ;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+	margin-top: 50px ;
+}
+
+.golongan{
+	margin-left: 80px ;
+	margin-bottom: 50px ;
+}
+
+.pegawaibtn{
+	margin-left: 80px ;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+
+}
+
+.tunjangan{
+	margin-left:10px;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+}
+
+.kategori{
+	margin-left:10px;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+}
+
+.lembur{
+	margin-left: 80px ;
+	margin-top: 5px ;
+	margin-bottom: 50px ;
+}
+
+.penggajian{
+	margin-top: 5px ;
+	margin-bottom: 40px ;
+}
+.gaji{
+	margin-bottom: % ;
+}
+
+.btnlembur{
+	margin-top:27px !important ;
+
+    color: #fff;
+    background-color: #3097D1;
+    border-color: #2a88bd;
+    box-shadow: 0px 0px 13px 5px #090909;
+}
+.form-control{
+	box-shadow:inset 0px 1px 10px 7px rgb(48, 151, 209);
+}
+.tambah{
+
+	box-shadow:inset 0px 0px 41px 12px rgb(48, 151, 209);
+}
+
